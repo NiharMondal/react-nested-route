@@ -1,0 +1,19 @@
+.navbar{
+  display: inline-flex;
+  background-color: rgb(168, 23, 23);
+  color: aliceblue;
+  width: 100%;
+  padding: 5px;
+}
+nav ul{
+  padding: 3px 10px;
+}
+ul li{
+  font-size: 19px;
+  cursor: pointer;
+  list-style: none;
+}
+.link{
+  color: aliceblue;
+  text-decoration: none;
+}
